@@ -1,5 +1,5 @@
-STUID = ysyx_22040000
-STUNAME = 张三
+STUID = 暂无
+STUNAME = 刘烨
 
 # DO NOT modify the following code!!!
 
